@@ -6526,16 +6526,16 @@ cout << "You got 20 Points" << "!" << endl;
 }
 
 if (Answer150 < 800) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (40 x 20)" << "?" << endl;
 cin >> WhenAnswer150Wrong;
 
 }
 
 if (Answer150 > 800) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (40 x 20)" << "?" << endl;
 cin >> WhenAnswer150Wrong1;
 
@@ -6562,16 +6562,16 @@ cout << "You got 20 Points" << "!" << endl;
 }
 
 if (Answer151 < 2000) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (100 x 20)" << "?" << endl;
 cin >> WhenAnswer151Wrong;
 
 }
 
 if (Answer151 > 2000) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (100 x 20)" << "?" << endl;
 cin >> WhenAnswer151Wrong1;
 
@@ -6598,16 +6598,16 @@ cout << "You got 20 Points" << "!" << endl;
 }
 
 if (Answer152 < 3000) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (300 x 20)" << "?" << endl;
 cin >> WhenAnswer152Wrong;
 
 }
 
 if (Answer152 > 3000) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (300 x 20)" << "?" << endl;
 cin >> WhenAnswer152Wrong1;
 
@@ -6634,16 +6634,16 @@ cout << "You got 60 Points" << "!" << endl;
 }
 
 if (Answer153 < 41700) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (300 x 139)" << "?" << endl;
 cin >> WhenAnswer153Wrong;
 
 }
 
 if (Answer153 > 41700) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (300 x 139)" << "?" << endl;
 cin >> WhenAnswer153Wrong1;
 
@@ -6670,16 +6670,16 @@ cout << "You got 40 Points" << "!" << endl;
 }
 
 if (Answer154 < 5560) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (40 x 139)" << "?" << endl;
 cin >> WhenAnswer154Wrong;
 
 }
 
 if (Answer154 > 5560) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (40 x 139)" << "?" << endl;
 cin >> WhenAnswer154Wrong1;
 
@@ -6706,16 +6706,16 @@ cout << "You got 65 Points" << "!" << endl;
 }
 
 if (Answer155 < 13900) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (100 x 139)" << "?" << endl;
 cin >> WhenAnswer155Wrong;
 
 }
 
 if (Answer155 > 13900) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (100 x 139)" << "?" << endl;
 cin >> WhenAnswer155Wrong1;
 
@@ -6742,16 +6742,16 @@ cout << "You got 13 Points" << "!" << endl;
 }
 
 if (Answer156 < 166800) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (1200 x 139)" << "?" << endl;
 cin >> WhenAnswer156Wrong;
 
 }
 
 if (Answer156 > 166800) {
-cout << "Incorrect Answer" << ".";
-cout << "Try Again for Partial Credit" << ".";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (1200 x 139)" << "?" << endl;
 cin >> WhenAnswer156Wrong1;
 
@@ -6778,16 +6778,16 @@ cout << "You got 56 Points" << "!" << endl;
 }
 
 if (Answer157 < 5600) {
-cout << "Incorrect Answer.";
-cout << "Try Again for Partial Credit.";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (40 x 140)" << "?" << endl;
 cin >> WhenAnswer157Wrong;
 
 }
 
 if (Answer157 > 5600) {
-cout << "Incorrect Answer.";
-cout << "Try Again for Partial Credit.";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (40 x 140)" << "?" << endl;
 cin >> WhenAnswer157Wrong1;
 
@@ -6814,16 +6814,16 @@ cout << "You got 31 Points" << "!" << endl;
 }
 
 if (Answer158 < 14000) {
-cout << "Incorrect Answer.";
-cout << "Try Again for Partial Credit.";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (100 x 140)" << "?" << endl;
 cin >> WhenAnswer158Wrong;
 
 }
 
 if (Answer158 > 14000) {
-cout << "Incorrect Answer.";
-cout << "Try Again for Partial Credit.";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (100 x 140)" << "?" << endl;
 cin >> WhenAnswer158Wrong1;
 
@@ -6850,16 +6850,16 @@ cout << "You got 69 Points" << "!" << endl;
 }
 
 if (Answer159 < 42000) {
-cout << "Incorrect Answer.";
-cout << "Try Again for Partial Credit.";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (300 x 140)" << "?" << endl;
 cin >> WhenAnswer159Wrong;
 
 }
 
 if (Answer159 > 42000) {
-cout << "Incorrect Answer.";
-cout << "Try Again for Partial Credit.";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
 cout << "What is (300 x 140)" << "?" << endl;
 cin >> WhenAnswer159Wrong1;
 
@@ -6875,40 +6875,40 @@ cout << "You got Question 159 Correct on your Second Attempt" << "!" << endl;
 cout << "You got 34.5 Points" << "!" << endl;
 }
 
-cout << "Question 160: What is (1200 x 140)?";
+cout << "Question 160: What is (1200 x 140)" << "?" << endl;
 cin >> Answer160;
 
 if (Answer160 == 168000) {
-cout << "You got Question 160 Correct!";
-cout << "You got 13 Points!";
+cout << "You got Question 160 Correct" << "!" << endl;
+cout << "You got 13 Points" << "!" << endl;
 
 
 }
 
 if (Answer160 < 168000) {
-cout << "Incorrect Answer.";
-cout << "Try Again for Partial Credit.";
-cout << "What is (1200 x 140)?";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
+cout << "What is (1200 x 140)" << "?" << endl;
 cin >> WhenAnswer160Wrong;
 
 }
 
 if (Answer160 > 168000) {
-cout << "Incorrect Answer.";
-cout << "Try Again for Partial Credit.";
-cout << "What is (1200 x 140)?";
+cout << "Incorrect Answer" << "." << endl;
+cout << "Try Again for Partial Credit" << "." << endl;
+cout << "What is (1200 x 140)" << "?" << endl;
 cin >> WhenAnswer160Wrong1;
 
 }
 
 if (WhenAnswer160Wrong == 168000) {
-cout << "You got Question 160 Correct on your Second Attempt!";
-cout << "You got 6.5 Points!";
+cout << "You got Question 160 Correct on your Second Attempt" << "!" << endl;
+cout << "You got 6.5 Points" << "!" << endl;
 }
 
 if (WhenAnswer160Wrong1 == 168000) {
-cout << "You got Question 160 Correct on your Second Attempt!";
-cout << "You got 6.5 Points!";
+cout << "You got Question 160 Correct on your Second Attempt" << "!" << endl;
+cout << "You got 6.5 Points" << "!" << endl;
 }
 
 cout << "Question 161: ()?";
